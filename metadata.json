@@ -1,0 +1,10 @@
+{
+  "name": "VYBE",
+  "description": "Premium, cinematic mobile-first nightlife application for live DJ discovery, live interactions, song requests, and luxury bookings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
